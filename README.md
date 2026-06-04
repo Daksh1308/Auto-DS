@@ -19,8 +19,8 @@ upload → clean → insights → dashboard → chat / train models
 | --- | --- |
 | Upload & clean | ![Upload & clean](assets/Screenshot%20From%202026-06-04%2017-59-15.png) |
 | Insights | ![Insights](assets/Screenshot%20From%202026-06-04%2017-59-35.png) |
-| Dashboard | ![Dashboard](assets/Screenshot%20From%202026-06-04%2017-59-49.png) |
-| Chat / Model training | ![Chat / Model training](assets/Screenshot%20From%202026-06-04%2018-00-00.png) |
+| Dashboard | ![Dashboard](assets/Screenshot%20From%202026-06-04%2017-59-15.png) |
+| Chat / Model training | ![Chat / Model training](assets/Screenshot%20From%202026-06-04%2017-59-49.png) |
 
 Run the app locally (see *Quick start* below) to see all 5 phases
 in action.
