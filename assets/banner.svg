@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Automate DS banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.35">
+    <polyline points="40,260 160,200 280,230 400,140 520,180 640,90 760,150 880,70 1000,130 1120,60 1240,110"/>
+  </g>
+  <g fill="#22d3ee" opacity="0.6">
+    <circle cx="160" cy="200" r="4"/>
+    <circle cx="400" cy="140" r="4"/>
+    <circle cx="640" cy="90" r="4"/>
+    <circle cx="880" cy="70" r="4"/>
+    <circle cx="1120" cy="60" r="4"/>
+  </g>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" text-anchor="middle">
+    <text x="640" y="135" font-size="72" font-weight="800" fill="#f8fafc" letter-spacing="-2">Automate DS</text>
+    <text x="640" y="185" font-size="24" font-weight="500" fill="#cbd5f5">Upload · Clean · Insights · Dashboard · Chat · AutoML</text>
+    <text x="640" y="240" font-size="16" font-weight="400" fill="#94a3b8">FastAPI · React · Plotly · scikit-learn · Pandas</text>
+  </g>
+</svg>

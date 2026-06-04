@@ -1,5 +1,9 @@
 # Automate DS
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Automate DS banner" width="100%">
+</p>
+
 A multi-phase data automation tool: upload a CSV/XLSX, get a cleaned
 file + insights + an interactive dashboard + an AI chat that writes
 pandas against your data + one-click model comparison.
@@ -8,6 +12,24 @@ pandas against your data + one-click model comparison.
 upload → clean → insights → dashboard → chat / train models
  (P1)    (P1)    (P2)       (P3)        (P4)     (P5)
 ```
+
+## Screenshots
+
+> The actual screenshots live in [`docs/screenshots/`](docs/screenshots/).
+> Drop the PNGs there (filenames in the table below) and the images will
+> render here automatically.
+
+| Phase | View |
+| --- | --- |
+| **P1 — Cleaner** | ![Cleaning report](docs/screenshots/p1-cleaning-report.png) |
+| **P2 — Insights** | ![Smart insights](docs/screenshots/p2-insights.png) |
+| **P3 — Dashboard** | ![Dashboard](docs/screenshots/p3-dashboard.png) |
+| **P3 — Tweak panel** | ![Tweak panel](docs/screenshots/p3-tweak.png) |
+| **P4 — AI Chat** | ![AI chat](docs/screenshots/p4-chat.png) |
+| **P5 — Model results** | ![Model comparison](docs/screenshots/p5-ml-results.png) |
+
+See [`docs/screenshots/README.md`](docs/screenshots/README.md) for capture
+instructions and recommended dimensions.
 
 ## Quick start
 
