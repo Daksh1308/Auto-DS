@@ -1,0 +1,13 @@
+Customer ID,Full Name,SignUp Date,Age,City,Subscribed,Mostly Empty
+1,  Alice Smith  ,2024-01-05,25.0,NYC,yes,
+2,Bob Jones,2024-02-10,30.0,LA,no,
+3,carol o'brien,2024-02-21,,NYC,Yes,
+4,Dave Miller,not-a-date,40.0,Chicago,no,
+5,,2024-03-15,22.0,LA,,
+6,Eve Adams,2024-04-01,28.0,Chicago,yes,
+7,Frank White,,35.0,NYC,no,
+8, Grace Lee,2024-05-19,,Boston,yes,1.0
+9,Heidi Black,2024-06-30,45.0,NYC,No,
+10,Ivan Brown,2024-07-04,50.0,LA,yes,
+1,  Alice Smith  ,2024-01-05,25.0,NYC,yes,
+11,Judy Green,2024-08-12,33.0,Boston,no,
